@@ -318,7 +318,7 @@ console.log('JSProtector loaded:', typeof JSProtector !== 'undefined');
 
 ## ⚙️ static web protection
 
-This project is also built with the same Js obfuscation library
+This project is also built with the same **Js obfuscation library**
 
 > [▶️ Test Site](https://web0x1.vercel.app/)
 
@@ -327,6 +327,6 @@ This project is also built with the same Js obfuscation library
 
 ## 📄 License
 
-Free to use in personal and commercial projects
+**Free** to use in personal and commercial projects
 
 ---
