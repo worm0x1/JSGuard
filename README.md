@@ -19,7 +19,7 @@ A powerful, **semi-open source** JavaScript library that **protects** and **obfu
 Add the library to your HTML file:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/worm0x1/JSGuard/Jsprotector.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/worm0x1/JSGuard/JSGuard.js"></script>
 ```
 
 That's it! The library will automatically load all required dependencies.
