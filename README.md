@@ -327,6 +327,6 @@ This project is also built with the same **Js obfuscation library**
 
 ## 📄 License
 
-**Free** to use in personal and commercial projects
+License - **Free** to use in personal and commercial projects
 
 ---
