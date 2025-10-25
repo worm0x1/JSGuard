@@ -11,6 +11,7 @@ A powerful, **semi-open source** JavaScript library that **protects** and **obfu
 - ⚡ **Code Optimization** - Maintains functionality while securing code
 - 🎯 **Easy Integration** - Simple API, just one function call
 - 📦 **No Dependencies** - Works standalone (dynamically loads obfuscator)
+- **🧠 Obfuscation up to 2 MB**
 
 ---
 
